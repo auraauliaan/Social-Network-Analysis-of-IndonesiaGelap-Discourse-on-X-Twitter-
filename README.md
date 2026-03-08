@@ -165,6 +165,7 @@ IndonesiaGelap-Social-Network-Analysis
 ├── dataset
 │   ├── Edges_Indonesia_Gelap_Final.csv
 │   └── Nodes_Indonesia_Gelap_Final.csv
+|   └── Data Mentah Indonesia_Gelap.csv
 │
 ├── notebooks
 │   ├── Tweet Harvest (X Twitter Data Crawling).ipynb
